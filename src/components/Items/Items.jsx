@@ -1,6 +1,6 @@
 const Items = () => {
     return (
-        <h1>This is Items Page</h1>
+        <h1>This is ItemsPage</h1>
     )
 }
 export default Items;
